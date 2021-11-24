@@ -16,6 +16,9 @@ World's first custom Among Us Map Maker
 - Support for Other Mods
 - Support for the Airship update
 
+THIS BUILD
+- Support for the cosmicube update
+
 ## How to Install
 ### Run a Map
 1. Install [BepInEx](https://docs.reactor.gg/docs/basic/install_bepinex)
